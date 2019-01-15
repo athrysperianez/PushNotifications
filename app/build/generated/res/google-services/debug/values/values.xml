@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">683338807310-im2k3nqemndff9cjmqmkpkp3h940odur.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://notificationpush-80f17.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">683338807310</string>
+    <string name="google_api_key" translatable="false">AIzaSyCeu0wo56_TQnVBywKE8diK5agU7J5TWbY</string>
+    <string name="google_app_id" translatable="false">1:683338807310:android:3d11fd42b84cc79c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCeu0wo56_TQnVBywKE8diK5agU7J5TWbY</string>
+    <string name="google_storage_bucket" translatable="false">notificationpush-80f17.appspot.com</string>
+    <string name="project_id" translatable="false">notificationpush-80f17</string>
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "683338807310",
+    "firebase_url": "https://notificationpush-80f17.firebaseio.com",
+    "project_id": "notificationpush-80f17",
+    "storage_bucket": "notificationpush-80f17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683338807310:android:3d11fd42b84cc79c",
+        "android_client_info": {
+          "package_name": "practicas.elias.pushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683338807310-im2k3nqemndff9cjmqmkpkp3h940odur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeu0wo56_TQnVBywKE8diK5agU7J5TWbY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
